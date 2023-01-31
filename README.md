@@ -25,3 +25,13 @@ From the Time Series Forecasting, the project intends to provide the owner with 
 from the farm machineries. 
 It is the hypothetical intention of this project that the insights gained herein, will help farm machinery owner's to properly plan the usage, and management of their 
 farm machinery to ensure ROI, longevity, optimal income generation. 
+
+## Key Models
+<ol>
+<li>Auto-Regressive Integrated Moving Average - ARIMA</li/>
+<li>Auto-Auto-Regressive Integrated Moving Average - AUTO-ARIMA</li/>
+<li>LInear Regression - LR</li/>
+<li>Random Forest Regressor - RF</li/>
+<li>Extreme Gradient Boosting Regressor - XGB</li/>
+<li>Long Short Term Memory - LSTM</li>
+</ol/>
