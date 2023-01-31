@@ -50,5 +50,5 @@ farm machinery to ensure ROI, longevity, optimal income generation.
 </ol/>
 
 ## Related
-
+<a href src='https://github.com/wessware/ARIMA_TIME_SERIES_FORECASTING'>Arima Time Series Analysis & Forecasting </a>
 ## Publication
