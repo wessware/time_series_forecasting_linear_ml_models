@@ -48,3 +48,7 @@ farm machinery to ensure ROI, longevity, optimal income generation.
   <li>LSTM        ==    3939.83</li/>
   <li>LR          ==    4068.75</li/>
 </ol/>
+
+## Related
+
+## Publication
