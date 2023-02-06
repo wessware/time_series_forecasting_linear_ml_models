@@ -64,13 +64,14 @@ farm machinery to ensure ROI, longevity, optimal income generation.
 <ol>
   <li>ARIMA       ==    3187.56</li/>
   <li>AUTO-ARIMA  ==    3197.61</li/>
+  <li>LGBM        ==    3456.87</li/>
   <li>RF          ==    3592.49</li/>
   <li>BiLSTM      ==    3645.53</li/>
+  <li>CatBoost    ==    3709.08</li/>
   <li>XGB         ==    3928.97</li/>
   <li>LSTM        ==    3939.83</li/>
   <li>LR          ==    4068.75</li/>
   <li>GRU         ==    4858.5181</li/>
- 
 </ol/>
 
 ## Related
