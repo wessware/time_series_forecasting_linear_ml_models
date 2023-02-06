@@ -1,5 +1,9 @@
 # TIME SERIES ANALYSIS & FORECASTING
 
+## Subject
+
+This project is a case study of the deployment, management, and income generation from the Case iH JX75T, KTCC **8D, farm machinery from October 2021 to July 2022. 
+
 ![IMG_20210924_094144](https://user-images.githubusercontent.com/46624127/216979248-d15aa37b-845c-467b-b69b-45a9c96b249d.jpg)
 
 
@@ -33,14 +37,24 @@ farm machinery to ensure ROI, longevity, optimal income generation.
 ## Key Models
 
 <ol>
+  
+ ### A. Statistical
+    
   <li>Auto-Regressive Integrated Moving Average - ARIMA</li/>
   <li>Auto-Auto-Regressive Integrated Moving Average - AUTO-ARIMA</li/>
+  
+ ### B. Machine Learning
+  
   <li>LInear Regression - LR</li/>
   <li>Random Forest Regressor - RF</li/>
   <li>Extreme Gradient Boosting Regressor - XGB</li/>
+  
+  ### C. Deep Learning
+  
   <li>Long Short Term Memory - LSTM</li>
   <li> Bidirectional Long Short Term Memory - BiLSTM </li/>
   <li> Gated Reccurent Unit - GRU </li/>
+  
 </ol/>
 
 ## Model Scores - Root Mean Squared Error 
