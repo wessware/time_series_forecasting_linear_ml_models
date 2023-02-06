@@ -36,6 +36,8 @@ farm machinery to ensure ROI, longevity, optimal income generation.
   <li>Random Forest Regressor - RF</li/>
   <li>Extreme Gradient Boosting Regressor - XGB</li/>
   <li>Long Short Term Memory - LSTM</li>
+  <li> Bidirectional Long Short Term Memor </li/>
+  <li> Gated Reccurent Unit </li/>
 </ol/>
 
 ## Model Scores - Root Mean Squared Error 
