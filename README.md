@@ -48,6 +48,8 @@ farm machinery to ensure ROI, longevity, optimal income generation.
   <li>LInear Regression - LR</li/>
   <li>Random Forest Regressor - RF</li/>
   <li>Extreme Gradient Boosting Regressor - XGB</li/>
+  <li> Light Gradient Boosting Machine Regressor - LGBM </li/>
+  <li> Categorical Boosting Regressor - CatBoost </li/>
   
   ### C. Deep Learning
   
