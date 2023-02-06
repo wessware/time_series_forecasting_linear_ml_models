@@ -36,8 +36,8 @@ farm machinery to ensure ROI, longevity, optimal income generation.
   <li>Random Forest Regressor - RF</li/>
   <li>Extreme Gradient Boosting Regressor - XGB</li/>
   <li>Long Short Term Memory - LSTM</li>
-  <li> Bidirectional Long Short Term Memor </li/>
-  <li> Gated Reccurent Unit </li/>
+  <li> Bidirectional Long Short Term Memory - BiLSTM </li/>
+  <li> Gated Reccurent Unit - GRU </li/>
 </ol/>
 
 ## Model Scores - Root Mean Squared Error 
@@ -46,9 +46,12 @@ farm machinery to ensure ROI, longevity, optimal income generation.
   <li>ARIMA       ==    3187.56</li/>
   <li>AUTO-ARIMA  ==    3197.61</li/>
   <li>RF          ==    3592.49</li/>
+  <li>BiLSTM      ==    3645.53</li/>
   <li>XGB         ==    3928.97</li/>
   <li>LSTM        ==    3939.83</li/>
   <li>LR          ==    4068.75</li/>
+  <li>GRU         ==    4858.5181</li/>
+ 
 </ol/>
 
 ## Related
