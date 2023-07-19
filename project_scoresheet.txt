@@ -2,8 +2,8 @@ Model                   BEST RMSE SCORE
 ARIMA                       3187.56
 AUTO-ARIMA                  3197.61
 RANDOM FOREST REGRESSOR     3592.49
-BiLSTM                      3645.53
+GRU                         3913.3844
 XGB REGRESSOR               3928.97
 LSTM                        3939.83
+BiLSTM                      3964.2377
 LINEAR REGRESSOR            4068.75
-GRU                         4858.58
